@@ -1,5 +1,5 @@
 {
-    "name": "niklaslu/file-cache",
+    "name": "niklaslu/php-file-cache",
     "description": "php file cache",
     "type": "composer",
     "license": "MIT",
